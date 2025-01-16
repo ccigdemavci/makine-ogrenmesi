@@ -1,1 +1,1 @@
-# makine-renmesi-
+# makine ogrenmesi
